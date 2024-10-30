@@ -1,0 +1,15 @@
+.ricc_col{
+	display:block;
+	margin: 10px 0;	
+}
+.ricc_col label{
+	width:200px;
+	float: left;	
+}
+.ricc_col span {
+    margin: 0 15px 0 5px;
+}
+#ri_ccss{
+	width:100%;
+	min-height: 150px;	
+}
